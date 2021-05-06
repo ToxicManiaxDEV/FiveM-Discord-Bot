@@ -1,0 +1,27 @@
+{
+  "name": "fivem-bot",
+  "version": "1.0.0",
+  "description": "MADE FOR FIVEM SERVERS",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "TOXIC",
+  "license": "ISC",
+  "dependencies": {
+    "axios": "^0.21.1",
+    "commando": "0.0.2",
+    "discord.js": "^12.5.1",
+    "discord.js-collector": "^1.8.9",
+    "discord.js-commando": "^0.12.2",
+    "enmap": "^5.8.4",
+    "events": "^3.3.0",
+    "fs": "0.0.1-security",
+    "node-fetch": "^2.6.1",
+    "pretty-ms": "^7.0.1",
+    "puppeteer": "^8.0.0",
+    "rambda": "^6.5.3",
+    "slappey": "^3.0.0",
+    "sourcebin": "^4.1.3"
+  }
+}

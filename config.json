@@ -1,0 +1,22 @@
+{
+    "prefix": "Your Prefix",
+    "BOT_TOKEN": "Your Super Secret Token", 
+    "Activity": "Your Bot Activity",
+    "DARKNET": "ID",
+    "DARKNET_LOGS": "ID",
+    "TWT": "ID",
+    "TWT_LOGS": "ID", 
+    "INSTA": "ID",
+    "INSTA_LOGS": "ID",
+    "Server_Image":  "LINK",
+    "color": "COLOR HEX WITH OUT #",
+    "coloroffline": "COLOR HEX WITH OUT #",
+    "thumbnailphoto": "LINK",
+    "suggestchannel": "channel id",
+    "emojireact1": "emoji id",
+    "emojireact2": "emoji id",
+    "toxic": {
+        "ip": "Server Ip",
+        "port": "Server Port"
+    }   
+}
