@@ -15,6 +15,7 @@
     "suggestchannel": "channel id",
     "emojireact1": "emoji id",
     "emojireact2": "emoji id",
+    "guild": "Your Server ID",
     "toxic": {
         "ip": "Server Ip",
         "port": "Server Port"
